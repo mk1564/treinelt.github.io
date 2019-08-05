@@ -5,17 +5,17 @@ body{
 	margin:0;
 	padding:20px;
 	box-sizing:border-box;
-	background-color:#efefef;
-	color:#4a4a4a;
+	background-color:#ffffff;
+	color:#4d4d4d;
 	text-align:center;
 	font-family:-apple-system,BlinkMacSystemFont,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
 	line-height:1.5;
 	font-size:16px;
 	word-wrap:break-word}
-a:link{color:#4a4a4a}
-a:visited{color:#4a4a4a}
-a:hover{color:#4a4a4a}
-a:active{color:#4a4a4a}
+a:link{color:#212194}
+a:visited{color:#212194}
+a:hover{color:#212194}
+a:active{color:#212194}
 header .avatar{position:relative; height:150px}
 header .avatar img{position:absolute; width:150px;
 	margin: auto;
