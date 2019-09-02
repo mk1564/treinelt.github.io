@@ -16,7 +16,7 @@ a:link{color:#212194}
 a:visited{color:#212194}
 a:hover{color:#212194}
 a:active{color:#212194}
-header .avatar{position:relative; height:150px}
+header .avatar{position:relative; height:50px}
 header .avatar img{position:absolute; width:150px;
 	margin: auto;
 	left:0;
